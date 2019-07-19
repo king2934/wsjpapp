@@ -1,0 +1,5 @@
+#	com/wangshijiapu/wsjpapp
+*
+
+!*.java
+!.gitignore
