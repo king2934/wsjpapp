@@ -1,0 +1,7 @@
+#	src/main
+*
+
+!/java
+!/res
+!AndroidManifest.xml
+!.gitignore
