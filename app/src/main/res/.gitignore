@@ -1,0 +1,7 @@
+#	src/main/res
+*
+
+!/drawable
+!/layout
+!/values
+!.gitignore
